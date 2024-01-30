@@ -2,7 +2,7 @@ Justin Fok
 
 https://github.com/JustinFok1
 
-
+Vid: https://youtu.be/3-vc7AD-r9c
 
 Used OBS to record. Used intellij.
 
