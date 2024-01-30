@@ -1,4 +1,12 @@
-First Real Java Project
+Justin Fok
+
+https://github.com/JustinFok1
+
+
+
+Used OBS to record. Used intellij.
+
+
 
 Key Takeways:
 -Planning
