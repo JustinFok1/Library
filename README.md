@@ -2,4 +2,4 @@
 
 ###
 
-<p align="left">- Order Management: Create, read, update, and delete orders.<br>- Payment Processing: Integrated with Stripe for secure payment transactions.<br>- Customer Management: Handle customer information efficiently.</p>
+<p align="left">- Add book<br>- Delete Book<br>- Read book<br>- Edit book contents<br>- List books </p>
